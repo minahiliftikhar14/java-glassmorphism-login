@@ -43,3 +43,4 @@ A sleek and modern Desktop Login Interface built entirely in **Java Swing** and 
    javac -d bin src/LoginFrame.java
    java -cp bin LoginFrame
    .
+   Developed during Semester 1 | Software Engineering Program, University of Gujrat
