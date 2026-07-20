@@ -38,12 +38,8 @@ A sleek and modern Desktop Login Interface built entirely in **Java Swing** and 
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/java-glassmorphism-login.git](https://github.com/YOUR_USERNAME/java-glassmorphism-login.git)
+   git clone [https://github.com/YOUR_USERNAME/java-glassmorphism-login.git](https://github.com/miahiliftikhar14/java-glassmorphism-login.git)
    cd java-glassmorphism-login
    javac -d bin src/LoginFrame.java
    java -cp bin LoginFrame
    .
-├── src/
-│   └── LoginFrame.java     # Main application and custom UI components
-├── bin/                    # Compiled bytecode directory
-└── README.md
